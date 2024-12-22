@@ -1,0 +1,208 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/mobaxterm/home/semicon/timer
+vcounter
+Z1 !s110 1701332637
+!i10b 1
+!s100 OUj2^PI@::DB7kXdIFMB73
+I;mBNebeZ;h]:X>mdm53>n2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1701267177
+8counter.v
+Fcounter.v
+L0 1
+Z3 OL;L;10.6c;65
+r1
+!s85 0
+31
+Z4 !s108 1701332637.000000
+!s107 timer.v|tb_select_clock.v|tb_counter.v|select_clock.v|ip_encoder.v|ip_decoder.v|ip_core.v|decode_addr.v|counter.v|
+Z5 !s90 counter.v|decode_addr.v|ip_core.v|ip_decoder.v|ip_encoder.v|select_clock.v|tb_counter.v|tb_select_clock.v|timer.v|+define+WAIT_CYCLES=2|
+!i113 0
+Z6 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 !s92 +define+WAIT_CYCLES=2 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 tCvgOpt 0
+vdecode_addr
+R1
+!i10b 1
+!s100 K[6Q4=[?]:^<<T3`XO=O:2
+IUJ2k7ia8[cKZ9SV0zGjEi0
+R2
+R0
+w1701332307
+8decode_addr.v
+Fdecode_addr.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+Z9 !s107 timer.v|tb_select_clock.v|tb_counter.v|select_clock.v|ip_encoder.v|ip_decoder.v|ip_core.v|decode_addr.v|counter.v|
+R5
+!i113 0
+R6
+R7
+R8
+vip_core
+R1
+!i10b 1
+!s100 z2P[`hZ1;f5F`oYgRO[8D1
+I6lS5m>]a:iK=K;JiX8NbZ2
+R2
+R0
+w1701332217
+8ip_core.v
+Fip_core.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R9
+R5
+!i113 0
+R6
+R7
+R8
+vip_decoder
+R1
+!i10b 1
+!s100 aj@mHLCT8`o9EOBOZ3F@Q3
+I;bHOLC:_hMA7NgAJOIzzU1
+R2
+R0
+w1701332234
+8ip_decoder.v
+Fip_decoder.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R9
+R5
+!i113 0
+R6
+R7
+R8
+vip_encoder
+R1
+!i10b 1
+!s100 O^[PBHbhgEOi^gX5OAfji0
+Ikjm_D0_VSf]I]gRDA;4KI1
+R2
+R0
+w1701332178
+8ip_encoder.v
+Fip_encoder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R9
+R5
+!i113 0
+R6
+R7
+R8
+vselect_clock
+R1
+!i10b 1
+!s100 9N@65d8PLEHaEUKeQ?Zb<1
+I9a<Xe:3=lUDzko8^?GMJ03
+R2
+R0
+w1701267016
+8select_clock.v
+Fselect_clock.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R9
+R5
+!i113 0
+R6
+R7
+R8
+vtb_counter
+R1
+!i10b 1
+!s100 QOnb1;UmSA9>4PeU;7Fe30
+IHHZc63z>MKWcb_i@`0JPE3
+R2
+R0
+w1701267819
+8tb_counter.v
+Ftb_counter.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R9
+R5
+!i113 0
+R6
+R7
+R8
+vtb_select_clock
+R1
+!i10b 1
+!s100 N7?>a6DKC;@QFGW2dVBZ=3
+IiPMQB[PPJ2jBX2Zhf_Nil3
+R2
+R0
+w1700836604
+8tb_select_clock.v
+Ftb_select_clock.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R9
+R5
+!i113 0
+R6
+R7
+R8
+vtimer
+R1
+!i10b 1
+!s100 LkX1RzmII8UiEdg@2M6JC3
+I>gIAMYoVVQ0NVgo@8QR:83
+R2
+R0
+w1701332634
+8timer.v
+Ftimer.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R9
+R5
+!i113 0
+R6
+R7
+R8

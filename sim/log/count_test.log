@@ -1,0 +1,57 @@
+# vsim -l count_test.log work.count_test -do "run -all;exit" -sv_seed random 
+# Start time: 21:21:55 on Oct 16,2024
+# Loading work.count_test
+# Loading work.testbench
+# Loading work.system_signals
+# Loading work.cpu_model
+# Loading work.timer
+# Loading work.ip_core
+# Loading work.decode_addr
+# Loading work.ip_decoder
+# Loading work.ip_encoder
+# Loading work.select_clock
+# Loading work.counter
+# Loading work.ofuf_detector
+# Sv_Seed = 3386486754
+# run -all
+# [write_read_test] WAIT_CYCLES =           0
+# tcr: 00010000, time:                  535
+# pass
+# tcr: 00010000, time:                 1055
+# pass
+# tcr: 00110000, time:                 1575
+# pass
+# tcr: 00110000, time:                 2095
+# pass
+# tcr: 10010000, tdr: 93, time:                 2645
+# pass
+# tcr: 10010000, tdr: 9a, time:                 3195
+# pass
+# tcr: 10110000, tdr: a8, time:                 3745
+# pass
+# tcr: 10110000, tdr: a6, time:                 4295
+# pass
+# tcr: 10010000, tdr: 93, time:                 4845
+# pass
+# tcr: 00110000, time:                 5365
+# pass
+# tcr: 00010000, time:                 5885
+# pass
+# tcr: 10010000, tdr: ad, time:                 6435
+# pass
+# tcr: 00010000, time:                 6955
+# pass
+# tcr: 10110000, tdr: 97, time:                 7505
+# pass
+# tcr: 00010000, time:                 8025
+# pass
+# tcr: 00110000, time:                 8545
+# pass
+# tcr: 10110000, tdr: 9e, time:                 9095
+# pass
+# tcr: 00110000, time:                 9615
+# pass
+# ** Note: $finish    : ../testcase/count_test.v(152)
+#    Time: 10155 ps  Iteration: 0  Instance: /count_test
+# End time: 21:21:55 on Oct 16,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

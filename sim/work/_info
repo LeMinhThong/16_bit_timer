@@ -1,0 +1,364 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/mobaxterm/home/semicon/timer/sim
+vcks_test
+Z1 !s110 1729115726
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 LeC3ZB@1R2;5G;9<E36[91
+I?kA[;i]C1>7O1;Dj9EU651
+R0
+w1704022052
+8../testcase/cks_test.v
+F../testcase/cks_test.v
+!i122 2
+L0 1 120
+Z3 OV;L;2020.1;71
+31
+Z4 !s108 1729115726.000000
+Z5 !s107 ../testcase/cks_test.v|../testcase/ofuf_test.v|../testcase/count_test.v|../testbench/testbench.v|../testbench/tb_select_clock.v|../testbench/tb_counter.v|../vip/cpu_model.v|../vip/system_signals.v|../rtl/timer.v|../rtl/ofuf_detector.v|../rtl/counter.v|../rtl/select_clock.v|../rtl/ip_core.v|../rtl/ip_encoder.v|../rtl/ip_decoder.v|../rtl/decode_addr.v|
+Z6 !s90 -f|compile.f|+define+|
+!i113 1
+Z7 !s92 +define+
+Z8 tCvgOpt 0
+vcount_test
+R1
+R2
+r1
+!s85 0
+!i10b 1
+!s100 EPLW:NRjPGd3H^Kf]3kz:0
+IW@J>4H@KRL:Z`hQRD=njU0
+R0
+w1729112891
+8../testcase/count_test.v
+F../testcase/count_test.v
+!i122 2
+L0 1 255
+R3
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vcounter
+R1
+R2
+r1
+!s85 0
+!i10b 1
+!s100 dZ>1BFFcSJXm@2b:bGQ5z0
+Il8g9V;PZQSQHIDmf1G6X=1
+R0
+w1723568849
+8../rtl/counter.v
+F../rtl/counter.v
+!i122 2
+L0 1 63
+R3
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vcpu_model
+R1
+R2
+r1
+!s85 0
+!i10b 1
+!s100 P=ODGIe7[aEh`B`dld18o3
+INB1f?RYcO?XFO@d8mEC7U1
+R0
+w1729115706
+8../vip/cpu_model.v
+F../vip/cpu_model.v
+!i122 2
+L0 1 64
+R3
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vdecode_addr
+R1
+R2
+r1
+!s85 0
+!i10b 1
+!s100 W1<6KjzbdPKW76:8jhBz?2
+IiL6XJX?Q:NakoFod=Ndaf3
+R0
+w1702301397
+8../rtl/decode_addr.v
+F../rtl/decode_addr.v
+!i122 2
+L0 1 14
+R3
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vip_core
+R1
+R2
+r1
+!s85 0
+!i10b 1
+!s100 2bb@8Biz2=BE>H@[6F>l92
+IdT]5:VBO7FP[P;G@ITlP[1
+R0
+w1704037001
+8../rtl/ip_core.v
+F../rtl/ip_core.v
+!i122 2
+L0 1 59
+R3
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vip_decoder
+R1
+R2
+r1
+!s85 0
+!i10b 1
+!s100 j>WCgcGZ[1KGjS2Ekdc`f3
+I7@g@9ZzMEU0]BXNQ55C`82
+R0
+w1705507726
+8../rtl/ip_decoder.v
+F../rtl/ip_decoder.v
+!i122 2
+L0 3 121
+R3
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vip_encoder
+R1
+R2
+r1
+!s85 0
+!i10b 1
+!s100 hFX<O9O?McL:hJEMX@6d<2
+IY=SlGnYHnVN4?Zej=1k[`0
+R0
+w1701680373
+8../rtl/ip_encoder.v
+F../rtl/ip_encoder.v
+!i122 2
+L0 1 24
+R3
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vofuf_detector
+R1
+R2
+r1
+!s85 0
+!i10b 1
+!s100 ;nEU[X;0`L9S4gH;2]h[B0
+Izz_0?NGOL>a6WiTS2:AKN2
+R0
+w1705486759
+8../rtl/ofuf_detector.v
+F../rtl/ofuf_detector.v
+!i122 2
+L0 1 60
+R3
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vofuf_test
+R1
+R2
+r1
+!s85 0
+!i10b 1
+!s100 ;@0?Plb24;@:VXz8>GB8W2
+IElH1ESa6zZzOnOCSYTN110
+R0
+w1705593973
+8../testcase/ofuf_test.v
+F../testcase/ofuf_test.v
+!i122 2
+L0 1 258
+R3
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vselect_clock
+R1
+R2
+r1
+!s85 0
+!i10b 1
+!s100 :fM2?efzLPYN_]>TmK`612
+I77^mgJQ?DQ1=I2T5^F2Q71
+R0
+w1704008308
+8../rtl/select_clock.v
+F../rtl/select_clock.v
+!i122 2
+L0 1 119
+R3
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vsystem_signals
+R1
+R2
+r1
+!s85 0
+!i10b 1
+!s100 >7V9bC[lSjTafoYdz2oZd1
+I?ShlBnBNEfWAUbC6KLmB12
+R0
+w1704008102
+8../vip/system_signals.v
+F../vip/system_signals.v
+!i122 2
+L0 1 12
+R3
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vtb_counter
+R1
+R2
+r1
+!s85 0
+!i10b 1
+!s100 oDgM_l>L;O@XDbWFVX;RR2
+I@kaR`:CE[X?BRlU=lFEk>2
+R0
+w1701332867
+8../testbench/tb_counter.v
+F../testbench/tb_counter.v
+!i122 2
+L0 1 52
+R3
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vtb_select_clock
+R1
+R2
+r1
+!s85 0
+!i10b 1
+!s100 oeRL6iTfH>iWod1Oa??L?0
+I4@?``W7PU];=BYS1;BfO63
+R0
+w1700836604
+8../testbench/tb_select_clock.v
+F../testbench/tb_select_clock.v
+!i122 2
+L0 1 36
+R3
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vtestbench
+R1
+R2
+r1
+!s85 0
+!i10b 1
+!s100 HjI9`zjLL81Li3FI1X_A;2
+I^N`aZ]=n^hNRgLBi:QW?P3
+R0
+w1702301699
+8../testbench/testbench.v
+F../testbench/testbench.v
+!i122 2
+L0 1 42
+R3
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vtimer
+R1
+R2
+r1
+!s85 0
+!i10b 1
+!s100 UPC^f3Zclz^:_:VD9OPSM0
+I[^AIY>J[[FL?bgYEe3BSP2
+R0
+w1704012968
+8../rtl/timer.v
+F../rtl/timer.v
+!i122 2
+L0 1 70
+R3
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8

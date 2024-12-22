@@ -1,0 +1,106 @@
+# Reading pref.tcl
+vsim work.count_test
+# vsim work.count_test 
+# Start time: 21:22:18 on Oct 16,2024
+# Loading work.count_test
+# Loading work.testbench
+# Loading work.system_signals
+# Loading work.cpu_model
+# Loading work.timer
+# Loading work.ip_core
+# Loading work.decode_addr
+# Loading work.ip_decoder
+# Loading work.ip_encoder
+# Loading work.select_clock
+# Loading work.counter
+# Loading work.ofuf_detector
+add wave -position insertpoint sim:/count_test/tb/timer0/*
+run -all
+# [write_read_test] WAIT_CYCLES =           0
+# tcr: 00010000, time:                  535
+# pass
+# tcr: 00010000, time:                 1055
+# pass
+# tcr: 00110000, time:                 1575
+# pass
+# tcr: 00110000, time:                 2095
+# pass
+# tcr: 10010000, tdr: a8, time:                 2645
+# pass
+# tcr: 10010000, tdr: 96, time:                 3195
+# pass
+# tcr: 10110000, tdr: 96, time:                 3745
+# pass
+# tcr: 10110000, tdr: a6, time:                 4295
+# pass
+# tcr: 10010000, tdr: 96, time:                 4845
+# pass
+# tcr: 00110000, time:                 5365
+# pass
+# tcr: 00010000, time:                 5885
+# pass
+# tcr: 10010000, tdr: 96, time:                 6435
+# pass
+# tcr: 00010000, time:                 6955
+# pass
+# tcr: 10110000, tdr: a2, time:                 7505
+# pass
+# tcr: 00010000, time:                 8025
+# pass
+# tcr: 00110000, time:                 8545
+# pass
+# tcr: 10110000, tdr: 9e, time:                 9095
+# pass
+# tcr: 00110000, time:                 9615
+# pass
+# ** Note: $finish    : ../testcase/count_test.v(152)
+#    Time: 10155 ps  Iteration: 0  Instance: /count_test
+# 1
+# Break in Module count_test at ../testcase/count_test.v line 152
+quit -sim
+# End time: 06:00:50 on Oct 17,2024, Elapsed time: 8:38:32
+# Errors: 0, Warnings: 0
+vlog -work F:/mobaxterm/home/semicon/timer/sim/work -refresh -force_refresh
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 06:00:57 on Oct 17,2024
+# vlog -reportprogress 300 -work F:/mobaxterm/home/semicon/timer/sim/work -refresh -force_refresh 
+# -- Refreshing module cks_test
+# -- Refreshing module count_test
+# -- Refreshing module counter
+# -- Refreshing module cpu_model
+# -- Refreshing module decode_addr
+# -- Refreshing module ip_core
+# -- Refreshing module ip_decoder
+# -- Refreshing module ip_encoder
+# -- Refreshing module ofuf_detector
+# -- Refreshing module ofuf_test
+# -- Refreshing module select_clock
+# -- Refreshing module system_signals
+# -- Refreshing module tb_counter
+# -- Refreshing module tb_select_clock
+# -- Refreshing module testbench
+# -- Refreshing module timer
+# End time: 06:00:57 on Oct 17,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -work F:/mobaxterm/home/semicon/timer/sim/work -refresh -force_refresh
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 06:00:57 on Oct 17,2024
+# vcom -reportprogress 300 -work F:/mobaxterm/home/semicon/timer/sim/work -refresh -force_refresh 
+# -- Skipping module cks_test
+# -- Skipping module count_test
+# -- Skipping module counter
+# -- Skipping module cpu_model
+# -- Skipping module decode_addr
+# -- Skipping module ip_core
+# -- Skipping module ip_decoder
+# -- Skipping module ip_encoder
+# -- Skipping module ofuf_detector
+# -- Skipping module ofuf_test
+# -- Skipping module select_clock
+# -- Skipping module system_signals
+# -- Skipping module tb_counter
+# -- Skipping module tb_select_clock
+# -- Skipping module testbench
+# -- Skipping module timer
+# End time: 06:00:57 on Oct 17,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

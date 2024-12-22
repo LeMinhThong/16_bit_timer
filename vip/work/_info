@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/mobaxterm/home/semicon/timer/vip
+vcpu_model
+Z1 !s110 1701427471
+!i10b 1
+!s100 U8GP:zDG]ZI@bkY[TlKD_1
+IMfPedJGO9SWgd]2LD<7FX3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1701423772
+8cpu_model.v
+Fcpu_model.v
+L0 1
+Z3 OL;L;10.6c;65
+r1
+!s85 0
+31
+Z4 !s108 1701427471.000000
+!s107 system_signals.v|cpu_model.v|
+Z5 !s90 cpu_model.v|system_signals.v|
+!i113 0
+Z6 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 tCvgOpt 0
+vsystem_signals
+R1
+!i10b 1
+!s100 4WBIQ^;Ca61N?l8C5?Kz?2
+I?IYGRiFU3d5EO2g<XDM<Z2
+R2
+R0
+w1701423774
+8system_signals.v
+Fsystem_signals.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+Z8 !s107 system_signals.v|cpu_model.v|
+R5
+!i113 0
+R6
+R7

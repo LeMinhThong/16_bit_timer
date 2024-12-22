@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/mobaxterm/home/semicon/timer/testbench
+vtestbench
+!s110 1701427516
+!i10b 1
+!s100 H@:bJOnhj7m83nNe2eH]m3
+IKU:bn4Zba_fVVJC<6SW?>2
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1701427459
+8testbench.v
+Ftestbench.v
+L0 1
+OL;L;10.6c;65
+r1
+!s85 0
+31
+!s108 1701427516.000000
+!s107 testbench.v|
+!s90 testbench.v|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0
